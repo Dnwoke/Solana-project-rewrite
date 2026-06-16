@@ -1,0 +1,24 @@
+{
+  "name": "solana-project-rewrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnwoke/Solana-project-rewrite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dnwoke/Solana-project-rewrite/issues"
+  },
+  "homepage": "https://github.com/Dnwoke/Solana-project-rewrite#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4"
+  }
+}
