@@ -1,0 +1,135 @@
+[gRPC Stream] Subscribing to Yellowstone Geyser...
+
+--- [Run #1] Jito Slot Window detected: 271400204 ---
+[Bundle Broker] Transaction Dispatched with purposefully expired blockhash.
+
+🤖 [AI Agent] Analyzing failure status...
+🤖 [AI Agent] Detected Error Code: "Expired Blockhash"
+🤖 [AI Agent Directive]: Action -> REFRESH_BLOCKHASH_AND_BUMP_TIP
+🤖 [AI Agent Directive]: Readjusting bundle tip to 66560 lamports.
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400205,
+  status: 'Finalized',
+  submitted_at: 1781732489973,
+  tip_lamports: 66560,
+  processed_at: 1781732490313,
+  confirmed_at: 1781732490723,
+  finalized_at: 1781732502573
+}
+
+--- [Run #2] Jito Slot Window detected: 271400208 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400208,
+  status: 'Finalized',
+  submitted_at: 1781732491175,
+  tip_lamports: 60292,
+  processed_at: 1781732491515,
+  confirmed_at: 1781732491925,
+  finalized_at: 1781732503775
+}
+
+--- [Run #3] Jito Slot Window detected: 271400212 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400212,
+  status: 'Finalized',
+  submitted_at: 1781732492377,
+  tip_lamports: 51548,
+  processed_at: 1781732492717,
+  confirmed_at: 1781732493127,
+  finalized_at: 1781732504977
+}
+
+--- [Run #4] Jito Slot Window detected: 271400216 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400216,
+  status: 'Finalized',
+  submitted_at: 1781732493580,
+  tip_lamports: 77872,
+  processed_at: 1781732493920,
+  confirmed_at: 1781732494330,
+  finalized_at: 1781732506180
+}
+
+--- [Run #5] Jito Slot Window detected: 271400220 ---
+[Bundle Broker] Network congestion spiked unexpectedly. Pre-calculated fee dropped below competitive floor.
+
+🤖 [AI Agent] Analyzing failure status...
+🤖 [AI Agent] Detected Error Code: "Fee Too Low"
+🤖 [AI Agent Directive]: Action -> ADJUST_FEE_TO_MARKET_RATE
+🤖 [AI Agent Directive]: Readjusting bundle tip to 97471 lamports.
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400221,
+  status: 'Finalized',
+  submitted_at: 1781732494781,
+  tip_lamports: 97471,
+  processed_at: 1781732495121,
+  confirmed_at: 1781732495531,
+  finalized_at: 1781732507381
+}
+
+--- [Run #6] Jito Slot Window detected: 271400224 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400224,
+  status: 'Finalized',
+  submitted_at: 1781732495985,
+  tip_lamports: 80131,
+  processed_at: 1781732496325,
+  confirmed_at: 1781732496735,
+  finalized_at: 1781732508585
+}
+
+--- [Run #7] Jito Slot Window detected: 271400228 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400228,
+  status: 'Finalized',
+  submitted_at: 1781732497186,
+  tip_lamports: 77116,
+  processed_at: 1781732497526,
+  confirmed_at: 1781732497936,
+  finalized_at: 1781732509786
+}
+
+--- [Run #8] Jito Slot Window detected: 271400232 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400232,
+  status: 'Finalized',
+  submitted_at: 1781732498388,
+  tip_lamports: 62618,
+  processed_at: 1781732498728,
+  confirmed_at: 1781732499138,
+  finalized_at: 1781732510988
+}
+
+--- [Run #9] Jito Slot Window detected: 271400236 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400236,
+  status: 'Finalized',
+  submitted_at: 1781732499590,
+  tip_lamports: 71039,
+  processed_at: 1781732499930,
+  confirmed_at: 1781732500340,
+  finalized_at: 1781732512190
+}
+
+--- [Run #10] Jito Slot Window detected: 271400240 ---
+✅ [Telemetry Log Generated]:
+{
+  slot: 271400240,
+  status: 'Finalized',
+  submitted_at: 1781732500791,
+  tip_lamports: 78215,
+  processed_at: 1781732501131,
+  confirmed_at: 1781732501541,
+  finalized_at: 1781732513391
+}
+
+=== 10-RUN INFRASTRUCTURE COMPLETION LOG MATRIX CONCLUDED ===
